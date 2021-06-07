@@ -12,7 +12,7 @@
       "Country": "Maldives",
       "Photos": [
         {
-          "Url": "https://randomuser.me/api/portraits/wpmen/48.jpg",
+          "Url": "https://randomuser.me/api/portraits/women/48.jpg",
           "IsMain": true
         }
       ]
@@ -30,7 +30,7 @@
       "Country": "Croatia (Hrvatska)",
       "Photos": [
         {
-          "Url": "https://randomuser.me/api/portraits/wpmen/6.jpg",
+          "Url": "https://randomuser.me/api/portraits/women/6.jpg",
           "IsMain": true
         }
       ]
@@ -48,7 +48,7 @@
       "Country": "Romania",
       "Photos": [
         {
-          "Url": "https://randomuser.me/api/portraits/wpmen/38.jpg",
+          "Url": "https://randomuser.me/api/portraits/women/38.jpg",
           "IsMain": true
         }
       ]
@@ -66,7 +66,7 @@
       "Country": "Dominica",
       "Photos": [
         {
-          "Url": "https://randomuser.me/api/portraits/wpmen/88.jpg",
+          "Url": "https://randomuser.me/api/portraits/women/88.jpg",
           "IsMain": true
         }
       ]
@@ -84,7 +84,7 @@
       "Country": "Kuwait",
       "Photos": [
         {
-          "Url": "https://randomuser.me/api/portraits/wpmen/80.jpg",
+          "Url": "https://randomuser.me/api/portraits/women/80.jpg",
           "IsMain": true
         }
       ]
